@@ -26,6 +26,16 @@ This repository is built for creators, marketers, agencies, YouTubers, TikTok cr
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Awesome AI YouTube Shorts prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts) - Shorts-first framing, hooks, and thumbnail-safe compositions.
+- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
+- [Awesome AI music video prompts](https://github.com/cliprise/awesome-ai-music-video-prompts) - visualizers, lyric-forward motion, and release creative prompts.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical AI video maker and AI video creator resource for users searching for:
